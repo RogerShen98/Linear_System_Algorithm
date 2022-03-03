@@ -12,7 +12,7 @@ import java.util.Scanner;
 import java.io.FileWriter;   // Import the FileWriter class
 
 
-public class GaussianAlgorithm {
+public class GaussianAlgorithm{
     
     public static void main(String[] args) throws IOException {
         
